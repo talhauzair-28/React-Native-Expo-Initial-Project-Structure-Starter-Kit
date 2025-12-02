@@ -1,0 +1,63 @@
+{
+  "expo": {
+    "name": "React Native Template",
+    "slug": "react-native-template-project",
+    "version": "1.0.0",
+    "scheme": "react-native-template",
+    "web": {
+      "bundler": "metro"
+    },
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./src/assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.reactnativetemplate",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.yourcompany.reactnativetemplate",
+      "versionCode": 1
+    },
+    "icon": "./src/assets/images/icon.png",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "locales": {
+      "en": {
+        "name": "React Native Template",
+        "description": "A comprehensive React Native template with best practices"
+      }
+    },
+    "experiments": {
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./src/assets/images/splash.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ]
+  }
+}

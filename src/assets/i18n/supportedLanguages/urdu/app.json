@@ -1,0 +1,187 @@
+{
+  "app": {
+    "name": "React Native ٹیمپلیٹ",
+    "description": "بہترین طریقوں کے ساتھ ایک جامع React Native ٹیمپلیٹ",
+    "version": "ورژن"
+  },
+  "navigation": {
+    "home": "گھر",
+    "explore": "دریافت کریں",
+    "favorites": "پسندیدہ",
+    "notifications": "اطلاعات",
+    "settings": "ترتیبات",
+    "profile": "پروفائل",
+    "back": "واپس",
+    "close": "بند کریں",
+    "cancel": "منسوخ",
+    "done": "مکمل"
+  },
+  "auth": {
+    "login": "سائن ان",
+    "register": "اکاؤنٹ بنائیں",
+    "logout": "سائن آؤٹ",
+    "forgotPassword": "پاس ورڈ بھول گئے؟",
+    "resetPassword": "پاس ورڈ ری سیٹ کریں",
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "confirmPassword": "پاس ورڈ کی تصدیق",
+    "firstName": "پہلا نام",
+    "lastName": "آخری نام",
+    "rememberMe": "مجھے یاد رکھیں",
+    "dontHaveAccount": "اکاؤنٹ نہیں ہے؟",
+    "alreadyHaveAccount": "پہلے سے اکاؤنٹ ہے؟",
+    "signUp": "سائن اپ",
+    "signIn": "سائن ان"
+  },
+  "onboarding": {
+    "welcome": {
+      "title": "Template App میں خوش آمدید",
+      "subtitle": "بہترین React Native ٹیمپلیٹ کے ساتھ شروع کریں",
+      "description": "اس ٹیمپلیٹ میں TypeScript، Redux، اور خوبصورت UI کمپوننٹس کے ساتھ ایک جدید React Native ایپ بنانے کے لیے ہر چیز شامل ہے۔"
+    },
+    "tutorial": {
+      "title": "فوری ٹیوٹوریل",
+      "subtitle": "بنیادی باتیں سیکھیں",
+      "description": "اہم خصوصیات کو سمجھنے اور اس ٹیمپلیٹ سے زیادہ سے زیادہ فائدہ اٹھانے کے لیے فوری دورہ کریں۔"
+    },
+    "permissions": {
+      "title": "اجازات",
+      "subtitle": "خصوصیات فعال کریں",
+      "description": "تمام خصوصیات کو فعال کرنے اور بہترین تجربہ فراہم کرنے کے لیے اجازات دیں۔",
+      "notification": "اپ ڈیٹ رہنے کے لیے اطلاعات کی اجازت دیں",
+      "location": "ذاتی نوعیت کی مواد کے لیے مقام شیئر کریں",
+      "camera": "لمحوں کو قید کرنے کے لیے کیمرا تک رسائی"
+    },
+    "getStarted": "شروع کریں",
+    "next": "اگلا",
+    "skip": "چھوڑیں",
+    "continue": "جاری رکھیں"
+  },
+  "common": {
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ",
+    "delete": "حذف کریں",
+    "edit": "ترمیم",
+    "update": "اپ ڈیٹ",
+    "create": "بنائیں",
+    "add": "شامل کریں",
+    "remove": "ہٹائیں",
+    "confirm": "تصدیق",
+    "yes": "ہاں",
+    "no": "نہیں",
+    "ok": "ٹھیک ہے",
+    "retry": "دوبارہ کوشش",
+    "refresh": "تازہ کریں",
+    "loading": "لوڈ ہو رہا ہے...",
+    "search": "تلاش",
+    "filter": "فلٹر",
+    "sort": "ترتیب",
+    "clear": "صاف کریں",
+    "apply": "لاگو کریں",
+    "reset": "دوبارہ سیٹ کریں"
+  },
+  "errors": {
+    "networkError": "نیٹ ورک کی خرابی۔ برائے کرم اپنا انٹرنیٹ کنکشن چیک کریں۔",
+    "timeoutError": "درخواست کا وقت ختم۔ برائے کرم دوبارہ کوشش کریں۔",
+    "serverError": "سرور کی خرابی۔ برائے کرم بعد میں کوشش کریں۔",
+    "invalidCredentials": "غلط ای میل یا پاس ورڈ۔",
+    "accountNotFound": "اکاؤنٹ نہیں ملا۔",
+    "accountDisabled": "اکاؤنٹ غیر فعال کر دیا گیا ہے۔",
+    "tokenExpired": "سیشن ختم ہو گیا۔ برائے کرم دوبارہ لاگ ان کریں۔",
+    "requiredField": "یہ فیلڈ ضروری ہے۔",
+    "invalidEmail": "برائے کرم درست ای میل ایڈریس درج کریں۔",
+    "invalidPassword": "پاس ورڈ کم از کم 8 حروف کا ہونا چاہیے۔",
+    "passwordsDontMatch": "پاس ورڈ میل نہیں کھاتے۔",
+    "unexpectedError": "غیر متوقع خرابی ہوئی۔ برائے کرم دوبارہ کوشش کریں۔",
+    "featureUnavailable": "یہ فیچر فی الوقت دستیاب نہیں ہے۔",
+    "permissionDenied": "اجازت مسترد۔"
+  },
+  "success": {
+    "loginSuccess": "لاگ ان کامیاب!",
+    "logoutSuccess": "لاگ آؤٹ کامیاب!",
+    "registrationSuccess": "اندراج کامیاب!",
+    "passwordResetSuccess": "پاس ورڈ کامیابی سے ری سیٹ ہو گیا!",
+    "profileUpdated": "پروفائل کامیابی سے اپ ڈیٹ ہو گیا!",
+    "passwordChanged": "پاس ورڈ کامیابی سے تبدیل ہو گیا!",
+    "saveSuccess": "تبدیلیاں کامیابی سے محفوظ ہو گئیں!",
+    "deleteSuccess": "آئٹم کامیابی سے حذف ہو گیا!",
+    "copySuccess": "کلپ بورڈ میں کاپی ہو گیا!"
+  },
+  "settings": {
+    "title": "ترتیبات",
+    "account": "اکاؤنٹ",
+    "preferences": "ترجیحات",
+    "language": "زبان",
+    "theme": "تھیم",
+    "notifications": "اطلاعات",
+    "privacy": "رازداری",
+    "security": "سیکیورٹی",
+    "about": "کے بارے میں",
+    "help": "مدد",
+    "feedback": "فیڈبیک",
+    "termsOfService": "خدمات کی شرائط",
+    "privacyPolicy": "رازداری کی پالیسی",
+    "version": "ورژن",
+    "buildNumber": "بلڈ نمبر"
+  },
+  "theme": {
+    "light": "روشن",
+    "dark": "تاریک",
+    "auto": "خودکار"
+  },
+  "language": {
+    "english": "English",
+    "urdu": "اردو",
+    "arabic": "العربية"
+  },
+  "notifications": {
+    "title": "اطلاعات",
+    "empty": "ابھی کوئی اطلاع نہیں",
+    "markAllRead": "سب کو پڑھا ہوا نشان لگائیں",
+    "clear": "سب صاف کریں",
+    "settings": "اطلاعات کی ترتیبات",
+    "pushNotifications": "پش نوٹیفیکیشنز",
+    "emailNotifications": "ای میل نوٹیفیکیشنز",
+    "smsNotifications": "SMS نوٹیفیکیشنز"
+  },
+  "profile": {
+    "title": "پروفائل",
+    "editProfile": "پروفائل میں ترمیم",
+    "changePassword": "پاس ورڈ تبدیل کریں",
+    "personalInfo": "ذاتی معلومات",
+    "contactInfo": "رابطہ کی معلومات",
+    "preferences": "ترجیحات",
+    "displayName": "ڈسپلے نام",
+    "bio": "تعارف",
+    "phone": "فون نمبر",
+    "dateOfBirth": "تاریخ پیدائش",
+    "location": "مقام"
+  },
+  "validation": {
+    "required": "یہ فیلڈ ضروری ہے",
+    "email": "برائے کرم درست ای میل ایڈریس درج کریں",
+    "password": "پاس ورڈ کم از کم 8 حروف کا ہونا چاہیے",
+    "passwordConfirm": "پاس ورڈ میل نہیں کھاتے",
+    "phone": "برائے کرم درست فون نمبر درج کریں",
+    "minLength": "کم از کم {{count}} حروف کا ہونا چاہیے",
+    "maxLength": "زیادہ سے زیادہ {{count}} حروف کا ہونا چاہیے"
+  },
+  "dateTime": {
+    "today": "آج",
+    "yesterday": "کل",
+    "tomorrow": "کل",
+    "thisWeek": "اس ہفتے",
+    "lastWeek": "پچھلے ہفتے",
+    "thisMonth": "اس مہینے",
+    "lastMonth": "پچھلے مہینے",
+    "thisYear": "اس سال"
+  },
+  "accessibility": {
+    "buttonHint": "فعال کرنے کے لیے دو بار ٹیپ کریں",
+    "linkHint": "کھولنے کے لیے دو بار ٹیپ کریں",
+    "imageDescription": "تصویر",
+    "loading": "مواد لوڈ ہو رہا ہے",
+    "error": "خرابی ہوئی",
+    "success": "عمل کامیابی سے مکمل ہوا"
+  }
+}
