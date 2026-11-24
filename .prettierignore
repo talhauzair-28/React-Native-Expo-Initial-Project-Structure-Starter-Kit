@@ -1,0 +1,5 @@
+# Claude skills: frontmatter must stay on one line — do not reflow
+.claude/
+
+node_modules/
+coverage/
